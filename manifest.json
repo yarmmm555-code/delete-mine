@@ -3,6 +3,6 @@
   "description": "Deletes your own messages in the current channel",
   "authors": [{ "name": "2p9" }],
   "main": "index.js",
-  "hash": "2",
+  "hash": "3",
   "vendetta": { "icon": "ic_trash_24px" }
 }
